@@ -2375,11 +2375,11 @@ input, select, textarea {
 				}
 
 					ul.pagination li > .page.active:hover {
-						background-color: #f67878;
+						background-color: #79a6d2;
 					}
 
 					ul.pagination li > .page.active:active {
-						background-color: #f45c5c;
+						background-color: #79a6d2;
 					}
 
 			ul.pagination li:first-child {
@@ -2510,7 +2510,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: rgba(245, 106, 106, 0.05);
+			background-color: rgba(106, 106, 245, 0.05);
 		}
 
 		input[type="submit"]:active,
@@ -2518,7 +2518,7 @@ input, select, textarea {
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: rgba(245, 106, 106, 0.15);
+			background-color: rgba(106, 106, 245, 0.15);
 		}
 
 		input[type="submit"].icon:before,
@@ -2570,7 +2570,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #f67878;
+				background-color: #79a6d2;
 			}
 
 			input[type="submit"].primary:active,
@@ -2578,7 +2578,7 @@ input, select, textarea {
 			input[type="button"].primary:active,
 			button.primary:active,
 			.button.primary:active {
-				background-color: #f45c5c;
+				background-color: #79a6d2;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
